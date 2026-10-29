@@ -1,0 +1,11 @@
+# Test artifacts (screenshots, videos, traces, etc.)
+# https://playwright.dev/docs/test-configuration
+test-results/
+
+# HTML report
+# https://playwright.dev/docs/test-reporters#html-reporter
+playwright-report/
+
+# Blob report (used to merge sharded runs)
+# https://playwright.dev/docs/test-reporters#blob-reporter
+blob-report/
